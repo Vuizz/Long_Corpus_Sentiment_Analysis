@@ -1,0 +1,21 @@
+(Adds background in paragraph 8 and 9) June 29 (Reuters) - Volkswagen is in talks with Tesla to
+adopt its North American Charging Standard (NACS), joining a slew of automakers and charging
+equipment makers that are choosing the technology. "Volkswagen Group and its brands are currently
+evaluating the implementation of the Tesla North American Charging Standard (NACS) for its North
+American customers," the German automaker said. Electrify America, Volkswagen's EV charging network
+unit, has more than 850 charging stations with about 4,000 chargers in the United States and Canada.
+During the NACS transition, Volkswagen, which sold nearly 16,000 EVs in the United States in the
+first quarter, will continue to offer the widely used Combined Charging System (CCS) connector. It
+had sold just 7,900 EVs a year ago. Tesla, meanwhile, has expanded beyond its connectors to include
+CCS at some of its U.S. charging stations as the Biden administration seeks to provide billions in
+subsidies to expand charging networks. The EV maker's Superchargers account for about 60% of the
+total number of fast chargers in the United States, according to the U.S. Department of Energy.
+Automakers such as Ford, General Motors and ChargePoint are among the companies that have signed up
+for Tesla's charging design in the past few weeks. Electric vehicle charging companies are also
+cautiously embracing Tesla's charging design, as they are in danger of losing out on customers if
+they offer only the CCS design, backed by automakers like Volkswagen and Hyundai Motor . The
+companies' decisions for NACS transition have shaken up the EV charging industry that likely was
+drifting towards the rival CCS connection, with the help of federal subsidies. Separately, Polestar
+has signed an agreement with Tesla to make available its charging network to the customers of the
+Swedish electric vehicle maker in the United States and Canada. (Reporting by Akash Sriram and
+Nathan Gomes in Bengaluru; Editing by Shinjini Ganguli, Arun Koyyur and Shweta Agarwal)
